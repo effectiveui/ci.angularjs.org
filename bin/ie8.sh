@@ -1,7 +1,7 @@
 #!/bin/bash
 
-VMNAME="Windows XP (IE8)"
-VMPATH="/Users/jenkins/Virtual Machines/Windows XP (IE8).vmwarevm/Windows XP (IE8).vmx"
+VMNAME="IE8 - Win7"
+VMPASSWORD="Password1"
 LOG_FILE="/Users/jenkins/bin/ie8.log"
 
 . ie_.sh
