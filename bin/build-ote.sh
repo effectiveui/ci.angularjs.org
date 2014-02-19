@@ -13,7 +13,8 @@ fi
 
 
 # BUILD #
-npm install --color false
+npm install --color=false
+bower install --no-color
 
 
 # UNIT TESTS #

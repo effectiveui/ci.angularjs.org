@@ -1,6 +1,6 @@
 [user]
-        name = jenkins
-        email = ci-bot@angularjs.org
+        name = Daniel McOrmond
+        email = daniel.mcormond@effectiveui.com
 [color]
         status = auto
         branch = auto

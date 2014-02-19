@@ -1,2 +1,2 @@
-export PATH=$PATH:~/bin:/Applications/VMware\ Fusion.app/Contents/Library:~/adt-bundle-mac-x86_64/sdk/tools:~/adt-bundle-mac-x86_64/sdk/platform-tools
+export PATH=/usr/local/bin:/usr/local/share/npm/bin:~/bin:$PATH
 alias ls="ls -G"
